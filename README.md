@@ -1,5 +1,5 @@
 
-# RIFT Hackathon: Financial Crime Detection System
+# Financial Crime Detection System
 
 ## 🚀 Project Title: Graph-Based Money Muling Detection Engine
 
