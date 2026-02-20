@@ -4,7 +4,7 @@
 ## 🚀 Project Title: Graph-Based Money Muling Detection Engine
 
 ### 🔗 Live Demo URL
-[Insert your deployed Vercel/Netlify link here]
+[https://nexorarift.netlify.app/]
 
 ### 🛠 Tech Stack
 - **Framework:** Next.js 15 (App Router)
@@ -74,8 +74,8 @@ Scores are normalized to 0-100. Accounts are flagged based on weighted patterns:
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/your-repo.git
-    cd your-repo
+    git clone https://github.com/Mhasnain-cyber/Nexora1.git
+    cd Nexora1
     ```
 
 2.  **Install dependencies:**
@@ -97,15 +97,13 @@ Scores are normalized to 0-100. Accounts are flagged based on weighted patterns:
 
 ---
 
-## ⚠️ Known Limitations
--   **In-Memory Processing:** Large datasets (>100MB) may slow down the browser.
--   **Graph Visualization:** Visualizing >1000 nodes can be cluttered (we limit the view to suspicious clusters).
+
 
 ## 👥 Team Members
--   [Name 1]
--   [Name 2]
--   [Name 3]
--   [Name 4]
+-   [Kartik Gupta]
+-   [Mohd Hasnain]
+-   [Yash Dubey]
+-   [Mudit Garg]
 
 ---
 
